@@ -1,0 +1,35 @@
+{
+  "name": "color-utils",
+  "version": "1.0.0",
+  "description": "Some basic utilities to work with colors in plain Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnkr/color-utils.git"
+  },
+  "keywords": [
+    "color",
+    "rgb",
+    "vanila-javascript"
+  ],
+  "author": "Mr.NKR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrnkr/color-utils/issues"
+  },
+  "homepage": "https://github.com/mrnkr/color-utils#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.4.3",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.4.3"
+  }
+}
