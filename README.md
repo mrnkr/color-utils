@@ -1,6 +1,13 @@
 # Color Utilities
 
-## Basic functions to work with colors in javascript
+[![NPM version][npm-image]][npm-url]
+[![Downloads][downloads-image]][npm-url]
+
+[npm-image]:http://img.shields.io/npm/v/color-utils.svg
+[npm-url]:https://npmjs.org/package/color-utils
+[downloads-image]:http://img.shields.io/npm/dm/color-utils.svg
+
+Basic functions to work with colors in javascript
 
 ### Intro
 
