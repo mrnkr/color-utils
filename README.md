@@ -3,9 +3,9 @@
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][npm-url]
 
-[npm-image]:http://img.shields.io/npm/v/color-utils.svg
-[npm-url]:https://npmjs.org/package/color-utils
-[downloads-image]:http://img.shields.io/npm/dm/color-utils.svg
+[npm-image]:http://img.shields.io/npm/v/dead-simple-color-utils.svg
+[npm-url]:https://npmjs.org/package/dead-simple-color-utils
+[downloads-image]:http://img.shields.io/npm/dm/dead-simple-color-utils.svg
 
 Basic functions to work with colors in javascript
 
