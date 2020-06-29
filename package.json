@@ -1,8 +1,9 @@
 {
   "name": "dead-simple-color-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some dead simple utilities to work with colors in plain Javascript",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "jest"
   },
